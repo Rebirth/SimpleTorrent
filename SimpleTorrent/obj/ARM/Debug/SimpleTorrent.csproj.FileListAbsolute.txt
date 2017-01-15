@@ -1,0 +1,10 @@
+C:\Sites\MAD-UWP-tv_watcher\SimpleTorrent\SimpleTorrent\obj\ARM\Debug\App.g.i.cs
+C:\Sites\MAD-UWP-tv_watcher\SimpleTorrent\SimpleTorrent\obj\ARM\Debug\App.g.cs
+C:\Sites\MAD-UWP-tv_watcher\SimpleTorrent\SimpleTorrent\obj\ARM\Debug\MainPage.g.i.cs
+C:\Sites\MAD-UWP-tv_watcher\SimpleTorrent\SimpleTorrent\obj\ARM\Debug\MainPage.g.cs
+C:\Sites\MAD-UWP-tv_watcher\SimpleTorrent\SimpleTorrent\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Sites\MAD-UWP-tv_watcher\SimpleTorrent\SimpleTorrent\obj\ARM\Debug\App.xaml
+C:\Sites\MAD-UWP-tv_watcher\SimpleTorrent\SimpleTorrent\obj\ARM\Debug\MainPage.xaml
+C:\Sites\MAD-UWP-tv_watcher\SimpleTorrent\SimpleTorrent\obj\ARM\Debug\App.xbf
+C:\Sites\MAD-UWP-tv_watcher\SimpleTorrent\SimpleTorrent\obj\ARM\Debug\MainPage.xbf
+C:\Sites\MAD-UWP-tv_watcher\SimpleTorrent\SimpleTorrent\obj\ARM\Debug\XamlSaveStateFile.xml

@@ -1,0 +1,1 @@
+C:\Sites\MAD-UWP-tv_watcher\SimpleTorrent\SimpleTorrent\SimpleTorrent.csproj;x86

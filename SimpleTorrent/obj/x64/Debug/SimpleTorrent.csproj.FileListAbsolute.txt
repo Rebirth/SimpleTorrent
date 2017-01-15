@@ -1,0 +1,11 @@
+C:\Sites\MAD-UWP-tv_watcher\SimpleTorrent\SimpleTorrent\obj\x64\Debug\App.g.i.cs
+C:\Sites\MAD-UWP-tv_watcher\SimpleTorrent\SimpleTorrent\obj\x64\Debug\App.g.cs
+C:\Sites\MAD-UWP-tv_watcher\SimpleTorrent\SimpleTorrent\obj\x64\Debug\MainPage.g.i.cs
+C:\Sites\MAD-UWP-tv_watcher\SimpleTorrent\SimpleTorrent\obj\x64\Debug\MainPage.g.cs
+C:\Sites\MAD-UWP-tv_watcher\SimpleTorrent\SimpleTorrent\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Sites\MAD-UWP-tv_watcher\SimpleTorrent\SimpleTorrent\obj\x64\Debug\App.xaml
+C:\Sites\MAD-UWP-tv_watcher\SimpleTorrent\SimpleTorrent\obj\x64\Debug\MainPage.xaml
+C:\Sites\MAD-UWP-tv_watcher\SimpleTorrent\SimpleTorrent\obj\x64\Debug\App.xbf
+C:\Sites\MAD-UWP-tv_watcher\SimpleTorrent\SimpleTorrent\obj\x64\Debug\MainPage.xbf
+C:\Sites\MAD-UWP-tv_watcher\SimpleTorrent\SimpleTorrent\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Sites\MAD-UWP-tv_watcher\SimpleTorrent\SimpleTorrent\obj\x64\Debug\SimpleTorrent.csprojResolveAssemblyReference.cache

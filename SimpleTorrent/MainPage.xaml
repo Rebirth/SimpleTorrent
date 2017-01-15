@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="SimpleTorrent.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SimpleTorrent"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <StackPanel HorizontalAlignment="Stretch" Background="#ecf0f1">
+        <TextBlock Text="Settings" FontSize="24px" Margin="20"/>
+
+        <!-- Downloads folder settings -->
+        <TextBlock Text="Downloads Folder" Margin="20,0,0,0"/>
+        <StackPanel Orientation="Horizontal" Margin="20,10,20,20">
+            <TextBox Width="500" IsReadOnly="true" Text="{Binding path, Mode=OneWay}" x:Name="download_path"/>
+            <Button Click="Folder_Click" Width="50">
+
+                <Button.Content>
+                    <FontIcon FontFamily="../Assets/fontawesome-webfont.ttf#FontAwesome" Glyph="&#xf141;" Foreground="#ecf0f1;"/>
+                </Button.Content>
+            </Button>
+        </StackPanel>
+        <Button Click="Download_Click" Width="100" Content="Download" Margin="20,10,20,20"/>
+    </StackPanel>
+</Page>
